@@ -1,0 +1,6 @@
+plyer
+pypresence
+discord.py 
+python-dotenv
+asyncio
+aiohttp
